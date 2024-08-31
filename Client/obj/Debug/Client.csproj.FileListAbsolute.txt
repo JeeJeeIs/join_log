@@ -1,0 +1,4 @@
+C:\Users\Wilson\source\repos\Client\output\Client.net.dll
+C:\Users\Wilson\source\repos\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\Client\Client\obj\Debug\Client.net.dll

@@ -1,0 +1,7 @@
+C:\Users\Wilson\source\repos\Client\Server\bin\Debug\Server.dll
+C:\Users\Wilson\source\repos\Client\Server\bin\Debug\Server.pdb
+C:\Users\Wilson\source\repos\Client\Server\bin\Debug\CitizenFX.Core.dll
+C:\Users\Wilson\source\repos\Client\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\Client\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\Client\output\Server.net.dll
+C:\Users\Wilson\source\repos\Client\Server\obj\Debug\Server.net.dll
